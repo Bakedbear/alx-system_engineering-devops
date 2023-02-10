@@ -1,1 +1,2 @@
-hidden files
+#!/bin/bash
+ls -la
