@@ -1,1 +1,1 @@
-list contents of a directory -ls
+navigate to home directory -cd
