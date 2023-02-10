@@ -1,1 +1,1 @@
-navigate to home directory -cd
+long format list of items in directory
