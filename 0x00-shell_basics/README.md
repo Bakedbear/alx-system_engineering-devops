@@ -1,1 +1,1 @@
-find absolute path name of the current working directory
+list contents of a directory -ls
